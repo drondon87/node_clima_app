@@ -1,0 +1,7 @@
+https://www.npmjs.com/package/request
+https://www.npmjs.com/package/fetch
+https://www.npmjs.com/package/axios
+https://reqres.in/
+https://www.mapbox.com/
+https://docs.mapbox.com/api/search/geocoding/
+https://openweathermap.org/
